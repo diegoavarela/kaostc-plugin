@@ -269,3 +269,19 @@ kaostc-plugin/
 - 10 comandos que orquestan agentes
 - 15 skills de conocimiento
 - Eliminados comandos redundantes (/ux, /docs)
+
+---
+
+## Contributing
+
+Las contribuciones son bienvenidas. Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
+
+Todas las PRs son revisadas y mergeadas por [@diegoavarela](https://github.com/diegoavarela).
+
+---
+
+## License
+
+MIT License - Ver [LICENSE](LICENSE) para más detalles.
+
+Copyright (c) 2025 Diego Varela

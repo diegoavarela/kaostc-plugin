@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDE/Editor configs (cada uno usa el suyo)
+.agent/
+.codex/
+.cursor/
+.vscode/
+.idea/
+
+# Node (si se usa)
+node_modules/
+
+# Logs
+*.log
