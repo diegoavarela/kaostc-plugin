@@ -284,4 +284,4 @@ Todas las PRs son revisadas y mergeadas por [@diegoavarela](https://github.com/d
 
 MIT License - Ver [LICENSE](LICENSE) para más detalles.
 
-Copyright (c) 2025 Diego Varela
+Copyright (c) 2026 Diego Varela
